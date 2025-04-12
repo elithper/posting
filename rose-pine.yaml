@@ -29,7 +29,7 @@ method:
   options: 'bold #e0def4'
 variable:
   resolved: 'bold #e0def4'
-  uresolved: 'dim #e0def4'
+  unresolved: 'dim #e0def4'
 
 author: Michael Howard
 description: All natural pine, faux fur and a bit of soho vibes for the classy minimalist

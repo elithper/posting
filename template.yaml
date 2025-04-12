@@ -29,7 +29,7 @@ method:
   options: 'bold $text'
 variable:
   resolved: 'bold $text'
-  uresolved: 'dim $text'
+  unresolved: 'dim $text'
 
 author: Michael Howard
 description: $description
