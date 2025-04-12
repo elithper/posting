@@ -1,0 +1,36 @@
+name: rose-pine
+primary: '#e0def4'
+secondary: '#908caa'
+accent: '#908caa'
+background: '#191724'
+surface: '#1f1d2e'
+error: '#eb6f92'
+success: '#9ccfd8'
+warning: '#f6c177'
+
+text_area:
+  cursor: 'reverse'
+  selection: 'reverse'
+url:
+  base: 'italic #e0def4'
+  protocol: 'bold #e0def4'
+syntax:
+  json_key: '#9ccfd8'
+  json_number: '#f6c177'
+  json_string: '#f6c177'
+  json_boolean: '#ebbcba'
+method:
+  get: 'bold #c4a7e7'
+  post: 'bold #9ccfd8'
+  put: 'bold #f6c177'
+  delete: 'bold #eb6f92'
+  patch: 'bold #31748f'
+  head: 'bold #ebbcba'
+  options: 'bold #e0def4'
+variable:
+  resolved: 'bold #e0def4'
+  uresolved: 'dim #e0def4'
+
+author: Michael Howard
+description: All natural pine, faux fur and a bit of soho vibes for the classy minimalist
+homepage: https://github.com/elithper/posting

@@ -1,0 +1,36 @@
+name: $id
+primary: '$text'
+secondary: '$subtle'
+accent: '$subtle'
+background: '$base'
+surface: '$surface'
+error: '$love'
+success: '$foam'
+warning: '$gold'
+
+text_area:
+  cursor: 'reverse'
+  selection: 'reverse'
+url:
+  base: 'italic $text'
+  protocol: 'bold $text'
+syntax:
+  json_key: '$foam'
+  json_number: '$gold'
+  json_string: '$gold'
+  json_boolean: '$rose'
+method:
+  get: 'bold $iris'
+  post: 'bold $foam'
+  put: 'bold $gold'
+  delete: 'bold $love'
+  patch: 'bold $pine'
+  head: 'bold $rose'
+  options: 'bold $text'
+variable:
+  resolved: 'bold $text'
+  uresolved: 'dim $text'
+
+author: Michael Howard
+description: $description
+homepage: https://github.com/elithper/posting

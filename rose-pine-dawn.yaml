@@ -1,0 +1,36 @@
+name: rose-pine-dawn
+primary: '#575279'
+secondary: '#797593'
+accent: '#797593'
+background: '#faf4ed'
+surface: '#fffaf3'
+error: '#b4637a'
+success: '#56949f'
+warning: '#ea9d34'
+
+text_area:
+  cursor: 'reverse'
+  selection: 'reverse'
+url:
+  base: 'italic #575279'
+  protocol: 'bold #575279'
+syntax:
+  json_key: '#56949f'
+  json_number: '#ea9d34'
+  json_string: '#ea9d34'
+  json_boolean: '#d7827e'
+method:
+  get: 'bold #907aa9'
+  post: 'bold #56949f'
+  put: 'bold #ea9d34'
+  delete: 'bold #b4637a'
+  patch: 'bold #286983'
+  head: 'bold #d7827e'
+  options: 'bold #575279'
+variable:
+  resolved: 'bold #575279'
+  uresolved: 'dim #575279'
+
+author: Michael Howard
+description: All natural pine, faux fur and a bit of soho vibes for the classy minimalist
+homepage: https://github.com/elithper/posting
