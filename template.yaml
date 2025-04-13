@@ -19,6 +19,7 @@ syntax:
   json_number: '$gold'
   json_string: '$gold'
   json_boolean: '$rose'
+  json_null: '$love'
 method:
   get: 'bold $iris'
   post: 'bold $foam'

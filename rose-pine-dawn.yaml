@@ -19,6 +19,7 @@ syntax:
   json_number: '#ea9d34'
   json_string: '#ea9d34'
   json_boolean: '#d7827e'
+  json_null: '#b4637a'
 method:
   get: 'bold #907aa9'
   post: 'bold #56949f'
